@@ -1,0 +1,17 @@
+# Ignore backup files
+*.bak
+
+# Ignore compressed files
+*.zip
+*.rar
+*.7z
+
+# Ignore configuration files
+*.ini
+
+# Ignore video and audio files
+*.avi
+*.mp3
+*.mp4
+*.mkv
+ 
